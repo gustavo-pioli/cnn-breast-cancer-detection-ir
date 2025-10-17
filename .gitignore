@@ -1,0 +1,8 @@
+# Modelos de rede neural
+*.pth
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdf
